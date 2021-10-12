@@ -18,7 +18,7 @@ export default function Projects() {
             Ethereum Smart Contracts, ERC20, ERC721, React.
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="flex flex-wrap -m-8">
           {projects.map((project) => (
             <a
               href={project.link}
