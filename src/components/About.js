@@ -15,7 +15,7 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
             Fan of technology since ever. Focused on the integration 
             of the blockchain technology and the mobile development.
-            Traveler, self-taught, English, Spanish and French speaker
+            Traveler, self-taught, English, Spanish and French speaker.
           </p>
           <div className="flex justify-center">
             <a

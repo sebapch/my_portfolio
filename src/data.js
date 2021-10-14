@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "Solidity",
+    title: "Presentation Card",
+    subtitle: "Flutter",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A presentation card made in flutter using material design and google UI. Producing simple and atractive mobile apps for personal and comercial use",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/sebapch",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Dartagnan Bussiness App",
+    subtitle: "Flutter and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "User and Admin mobile app with user authentication and complete functionalities, applied all the basics and intermediates for Flutter development",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/sebapch",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "NFT ERC-721 Memory Game",
+    subtitle: "Solidity, React and Web3",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A game made in Solidity that mints NFTS, connects to Web3 and interface made in React. Used to learn about ERC-721 development for blockchain technologies",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/sebapch",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Decentralized Staking App",
+    subtitle: "Solidity, React and Web3",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A decentralized web app to stake tokens and recieve in reward for staking another token with timed Airdrop. Used all the functionalities of a decentralized Bank",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/sebapch",
   },
 ];
 
@@ -51,13 +51,17 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "Solidity",
+  "Web3",
   "JavaScript",
   "React",
   "Node",
   "Flutter",
-  "Solidity",
   "Firebase",
   "Python",
+  "SQL",
   "Material UI",
+  
+
   
 ];
